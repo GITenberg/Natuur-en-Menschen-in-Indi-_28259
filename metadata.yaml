@@ -1,0 +1,27 @@
+_repo: Natuur-en-Menschen-in-Indi-_28259
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wit, Augusta de
+    alias: De Wit, Augusta
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '33232'
+    url: http://www.gutenberg.org/2009/agents/33232
+description: ''
+gutenberg_issued: '2009-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28259'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesia -- Description and travel'
+- !lcc 'DS'
+title: Natuur en Menschen in Indië
+url: http://www.gutenberg.org/ebooks/28259
